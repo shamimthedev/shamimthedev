@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamimthedev" alt="shamimthedev" /></a> </p>
 
-- 🔭 I’m currently working on [eMoogli ecommerce with React](https://github.com/shamimthedev/emoogli--react)
+- 🔭 I’m currently working on [javascript-beginner-to-advanced](https://github.com/shamimthedev/javascript-beginner-to-advanced)
 
 - 🌱 I’m currently learning **Next JS, Typescript**
 
