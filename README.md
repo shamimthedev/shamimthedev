@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [shamimthedev.vercel.app](shamimthedev.vercel.app)
 
-- 💬 Ask me about **react, tailwindcss, bootstrap**
+- 💬 Ask me about **react, next.js, tailwindcss, bootstrap**
 
 - 📫 How to reach me **shamimthedev@gmail.com**
 
