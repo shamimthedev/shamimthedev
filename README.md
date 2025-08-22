@@ -53,7 +53,7 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 
 <div align="center">
 
-[![JavaScript Guide](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=javascript-beginner-to-advanced&theme=dracula)](https://github.com/shamimthedev/javascript-beginner-to-advanced)
+[![NestMart eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=javascript-beginner-to-advanced&theme=dracula)]([https://github.com/shamimthedev/javascript-beginner-to-advanced](https://github.com/shamimthedev/nest-mart-ecommerce-store))
 [![Headless Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=nextjs-headless-ecom&theme=dracula)](https://github.com/shamimthedev/nextjs-headless-ecom)
 
 </div>
