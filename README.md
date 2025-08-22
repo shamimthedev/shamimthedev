@@ -53,7 +53,7 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 
 <div align="center">
 
-[![NestMart eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=javascript-beginner-to-advanced&theme=dracula)]([https://github.com/shamimthedev/javascript-beginner-to-advanced](https://github.com/shamimthedev/nest-mart-ecommerce-store))
+[![JavaScript Guide](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=javascript-beginner-to-advanced&theme=dracula)](https://github.com/shamimthedev/javascript-beginner-to-advanced)
 [![Headless Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=nextjs-headless-ecom&theme=dracula)](https://github.com/shamimthedev/nextjs-headless-ecom)
 
 </div>
@@ -61,7 +61,7 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 ### 🚀 Project Highlights
 
 - **[JavaScript Beginner to Advanced](https://github.com/shamimthedev/javascript-beginner-to-advanced)** - Comprehensive JavaScript learning resource with examples and exercises
-- **[Next.js Headless E-commerce](https://github.com/shamimthedev/nextjs-headless-ecom)** - Modern headless commerce solution built with Next.js
+- **[NestMart E-commerce Store](https://github.com/shamimthedev/nest-mart-ecommerce-store)** - Full-featured e-commerce platform with modern UI and shopping functionality
 - **Agency Website** 🔒 - Professional business website built with React & Next.js, featuring modern UI/UX design and responsive layouts *(Private Repository)*
 - **[Portfolio Website](https://shamimthedev.vercel.app)** - Personal portfolio showcasing projects and skills
 
