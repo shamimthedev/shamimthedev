@@ -24,7 +24,7 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 ## 💬 Let's Talk About
 - **Frontend:** React, Next.js, JavaScript, TypeScript
 - **Styling:** Tailwind CSS, Bootstrap, Sass
-- **Tools:** Git, Figma, Postman
+- **Tools:** Git, Figma, Vercel, Postman
 - **Currently exploring:** Headless CMS, JAMstack architecture
 
 ## 🛠️ Tech Stack
