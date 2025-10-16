@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Shamim Hossain</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full-Stack Developer | React & Next.js Enthusiast | Building Scalable Web Solutions</h3>
 
 <div align="center">
   
@@ -12,20 +12,24 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer from Bangladesh, dedicated to creating beautiful and functional web experiences. Currently diving deep into modern JavaScript frameworks and exploring the latest in web development.
+I'm a passionate full-stack developer from Bangladesh, dedicated to creating beautiful and functional web experiences from frontend to backend. I specialize in modern JavaScript frameworks and am constantly exploring new technologies to build scalable, performant applications.
 
 ## 🔥 Current Focus
 
-- 🔭 **Building:** [JavaScript Beginner to Advanced Guide](https://github.com/shamimthedev/javascript-beginner-to-advanced)
-- 🌱 **Learning:** Next.js, TypeScript, and modern web architecture
-- 🛠️ **Collaborating on:** [Headless E-commerce with Next.js](https://github.com/shamimthedev/nextjs-headless-ecom)
+- 🔭 **Building:** Full-stack e-commerce application with Medusa.js
+- 🌱 **Learning:** PostgreSQL, Prisma ORM, Backend architecture & API design
+- 🛠️ **Recently Explored:** Sanity CMS, Zustand state management, Headless architecture
 - 🌐 **Portfolio:** [shamimthedev.vercel.app](https://shamimthedev.vercel.app)
 
 ## 💬 Let's Talk About
 - **Frontend:** React, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, PostgreSQL, Prisma, Medusa.js
 - **Styling:** Tailwind CSS, Bootstrap, Sass
-- **Tools:** Git, Figma, Vercel, Postman
-- **Currently exploring:** Headless CMS, JAMstack architecture
+- **State Management:** Zustand, Redux
+- **CMS:** Sanity, Headless CMS architecture
+- **Deployment:** Vercel, Netlify, CI/CD workflows
+- **Tools:** Git, Figma, Postman
+- **Currently exploring:** JAMstack, E-commerce solutions, API development
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +39,13 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge&logo=medusa&logoColor=white)
 
 ### Styling
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -43,11 +54,16 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Tools & Design
+### CMS & Tools
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Deployment & Hosting
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## ⭐ Featured Projects
 
@@ -62,6 +78,7 @@ I'm a passionate frontend developer from Bangladesh, dedicated to creating beaut
 
 - **[JavaScript Beginner to Advanced](https://github.com/shamimthedev/javascript-beginner-to-advanced)** - Comprehensive JavaScript learning resource with examples and exercises
 - **[NestMart E-commerce Store](https://github.com/shamimthedev/nest-mart-ecommerce-store)** - Full-featured e-commerce platform with modern UI and shopping functionality
+- **Full-Stack E-commerce Platform** 🚧 - Building a scalable e-commerce solution with Medusa.js, PostgreSQL, and Prisma
 - **Agency Website** 🔒 - Professional business website built with React & Next.js, featuring modern UI/UX design and responsive layouts *(Private Repository)*
 - **[Portfolio Website](https://shamimthedev.vercel.app)** - Personal portfolio showcasing projects and skills
 
