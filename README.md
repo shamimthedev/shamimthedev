@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md. Shamim Hossain</h1>
-<h3 align="center">Full-Stack Developer | React & Next.js Enthusiast | Building Scalable Web Solutions</h3>
+<h3 align="center">
+Frontend Engineer • Next.js & TypeScript • Building Production-Ready Web Applications
+</h3>
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shamimthedev&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/shamimthedev?label=Follow&style=social)](https://github.com/shamimthedev)
 
@@ -12,113 +14,97 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer from Bangladesh, dedicated to creating beautiful and functional web experiences from frontend to backend. I specialize in modern JavaScript frameworks and am constantly exploring new technologies to build scalable, performant applications.
+I’m a **Frontend Engineer** focused on building fast, scalable, and maintainable web applications using **Next.js and TypeScript**.
+
+I work close to real users and real businesses — translating requirements into clean frontend architecture with strong attention to performance, accessibility, and long-term maintainability.
+
+I’ve worked on:
+- Production client websites
+- E-commerce frontends with complex UI & state
+- CMS-driven applications
+- Mobile-first, performance-optimized interfaces
+
+While I understand backend systems, my **primary focus is frontend engineering**.
+
+🌐 Portfolio: [shamimthedev.vercel.app](https://shamimthedev.vercel.app)
+
+---
 
 ## 🔥 Current Focus
 
-- 🔭 **Building:** Full-stack e-commerce application with Medusa.js
-- 🌱 **Learning:** PostgreSQL, Prisma ORM, Backend architecture & API design
-- 🛠️ **Recently Explored:** Sanity CMS, Zustand state management, Headless architecture
-- 🌐 **Portfolio:** [shamimthedev.vercel.app](https://shamimthedev.vercel.app)
+- ⚙️ Building **production-ready frontend systems** with Next.js
+- 🎨 Scalable UI architecture with Tailwind CSS & modern component patterns
+- 🧠 State management using Zustand
+- 🚀 Performance, accessibility, and clean frontend architecture
+- 🧩 CMS-driven frontend development (Sanity)
 
-## 💬 Let's Talk About
-- **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Backend:** Node.js, PostgreSQL, Prisma, Medusa.js
-- **Styling:** Tailwind CSS, Bootstrap, Sass
-- **State Management:** Zustand, Redux
-- **CMS:** Sanity, Headless CMS architecture
-- **Deployment:** Vercel, Netlify, CI/CD workflows
-- **Tools:** Git, Figma, Postman
-- **Currently exploring:** JAMstack, E-commerce solutions, API development
+---
+
+## 💬 I Work With
+
+- **Frontend:** Next.js, React, TypeScript, JavaScript
+- **Styling:** Tailwind CSS, CSS3, HTML5
+- **State:** Zustand
+- **UI & Motion:** Framer Motion, modern component systems
+- **CMS:** Sanity (Headless)
+- **Performance:** Lighthouse, Core Web Vitals
+- **Tools:** Git, GitHub, Figma, Chrome DevTools
+- **Deployment:** Vercel
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge&logo=medusa&logoColor=white)
-
-### Styling
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### CMS & Tools
+### Tools & Platform
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## ⭐ Featured Projects
+---
 
-<div align="center">
+## ⭐ Featured Work
 
-[![JavaScript Guide](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=javascript-beginner-to-advanced&theme=dracula)](https://github.com/shamimthedev/javascript-beginner-to-advanced)
-[![Headless Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=shamimthedev&repo=nextjs-headless-ecom&theme=dracula)](https://github.com/shamimthedev/nextjs-headless-ecom)
+### 🟢 Public Repository
+🔹 **[Kosi – Furniture E-Commerce Store](https://github.com/shamimthedev/kosi-furniture-store)**  
+Frontend-focused e-commerce application built with **Next.js, TypeScript, Tailwind CSS, Zustand, and Framer Motion**.
 
-</div>
+### 🔒 Private / Client Work
+- **Amyra Enterprise** — Production client website (design, frontend, CMS, deployment, ongoing maintenance)
+- **PlugNPlay** — Full e-commerce frontend demo (Next.js + TypeScript)
 
-### 🚀 Project Highlights
+> Some projects are private due to client and business constraints.
 
-- **[JavaScript Beginner to Advanced](https://github.com/shamimthedev/javascript-beginner-to-advanced)** - Comprehensive JavaScript learning resource with examples and exercises
-- **[NestMart E-commerce Store](https://github.com/shamimthedev/nest-mart-ecommerce-store)** - Full-featured e-commerce platform with modern UI and shopping functionality
-- **Full-Stack E-commerce Platform** 🚧 - Building a scalable e-commerce solution with Medusa.js, PostgreSQL, and Prisma
-- **Agency Website** 🔒 - Professional business website built with React & Next.js, featuring modern UI/UX design and responsive layouts *(Private Repository)*
-- **[Portfolio Website](https://shamimthedev.vercel.app)** - Personal portfolio showcasing projects and skills
+---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamimthedev&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamimthedev&theme=dracula&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimthedev&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=shamimthedev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-## 🤝 Let's Connect
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamimthedev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/shamimthedev)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/shamimthedev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shamimthedev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamimthedev&theme=dracula&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimthedev&layout=compact&theme=dracula)
 
 </div>
 
 ---
 
-<div align="center">
-  
-**💌 Email:** shamimthedev@gmail.com  
-**🌐 Portfolio:** [shamimthedev.vercel.app](https://shamimthedev.vercel.app)
+## 🤝 Let’s Connect
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamimthedev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shamimthedev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:shamimthedev@gmail.com)
 
 </div>
+
+---
+
+> “Good frontend code is invisible — users only feel the experience.”
