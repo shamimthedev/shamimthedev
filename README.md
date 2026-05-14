@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Shamim Hossain</h1>
 <h3 align="center">
-Frontend Engineer • Next.js & TypeScript • Building Production-Ready Web Applications
+Full-Stack Developer • Next.js, TypeScript & Supabase • Building Revenue-Generating Platforms
 </h3>
 
 <div align="center">
@@ -14,17 +14,18 @@ Frontend Engineer • Next.js & TypeScript • Building Production-Ready Web App
 
 ## 🚀 About Me
 
-I’m a **Frontend Engineer** focused on building fast, scalable, and maintainable web applications using **Next.js and TypeScript**.
+I'm a **Full-Stack Developer** building production platforms with **Next.js, TypeScript, and Supabase**.
 
-I work close to real users and real businesses — translating requirements into clean frontend architecture with strong attention to performance, accessibility, and long-term maintainability.
+I specialize in systems that generate revenue — **payment gateway integrations** (bKash, PhonePe, Nagad), **EdTech enrollment platforms**, and **e-commerce solutions** for Bangladesh businesses.
 
-I’ve worked on:
-- Production client websites
-- E-commerce frontends with complex UI & state
-- CMS-driven applications
-- Mobile-first, performance-optimized interfaces
+I've built:
+- **EdTech platform** serving 200+ active students across Bangladesh & India
+- Payment systems with **bKash PGW automation** and multi-gateway checkout
+- **Messenger conversion funnels** with source tracking and Telegram alerts
+- E-commerce platforms with CMS-driven product management
+- Production client websites with ongoing maintenance
 
-While I understand backend systems, my **primary focus is frontend engineering**.
+**Founder of BebsharDost** — helping SMBs build digital revenue channels.
 
 🌐 Portfolio: [shamimthedev.vercel.app](https://shamimthedev.vercel.app)
 
@@ -32,35 +33,45 @@ While I understand backend systems, my **primary focus is frontend engineering**
 
 ## 🔥 Current Focus
 
-- ⚙️ Building **production-ready frontend systems** with Next.js
-- 🎨 Scalable UI architecture with Tailwind CSS & modern component patterns
-- 🧠 State management using Zustand
-- 🚀 Performance, accessibility, and clean frontend architecture
-- 🧩 CMS-driven frontend development (Sanity)
+- 💰 Building **payment-integrated platforms** (bKash, PhonePe, Nagad)
+- 🎓 **EdTech systems** with automated enrollment and admin dashboards
+- 🛒 **E-commerce solutions** with real-time inventory and order management
+- 🤖 **Automated workflows** (Telegram bots, Messenger lead tracking)
+- 🗄️ **Database design** and API integration (Supabase/PostgreSQL)
+- 📊 **CMS-driven applications** for non-technical content management
 
 ---
 
 ## 💬 I Work With
 
-- **Frontend:** Next.js, React, TypeScript, JavaScript
-- **Styling:** Tailwind CSS, CSS3, HTML5
-- **State:** Zustand
-- **UI & Motion:** Framer Motion, modern component systems
+### Core Stack
+- **Frontend:** Next.js, React, TypeScript, JavaScript (ES6+)
+- **Backend & Database:** Supabase (PostgreSQL), REST APIs
+- **Styling:** Tailwind CSS, Radix UI, Framer Motion
+- **State Management:** Zustand
 - **CMS:** Sanity (Headless)
-- **Performance:** Lighthouse, Core Web Vitals
-- **Tools:** Git, GitHub, Figma, Chrome DevTools
-- **Deployment:** Vercel
+
+### Integrations & Automation
+- **Payment Gateways:** bKash PGW, PhonePe, Nagad, Rocket
+- **Messaging:** Telegram Bot API, WhatsApp API
+- **Lead Tracking:** Messenger source tracking
+- **Tools:** Git, GitHub, Figma, VS Code, Vercel
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend & Backend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Tools & Platform
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
@@ -72,15 +83,17 @@ While I understand backend systems, my **primary focus is frontend engineering**
 
 ## ⭐ Featured Work
 
-### 🟢 Public Repository
-🔹 **[Kosi – Furniture E-Commerce Store](https://github.com/shamimthedev/kosi-furniture-store)**  
-Frontend-focused e-commerce application built with **Next.js, TypeScript, Tailwind CSS, Zustand, and Framer Motion**.
+### 🟢 Live Client Projects
 
-### 🔒 Private / Client Work
-- **Amyra Enterprise** — Production client website (design, frontend, CMS, deployment, ongoing maintenance)
-- **PlugNPlay** — Full e-commerce frontend demo (Next.js + TypeScript)
+🔹 **[Biddaloy – EdTech Platform for Kids](https://biddaloy.com.bd)**  
+Full-stack EdTech ecosystem with **payment gateway integration** and admin dashboard.
+- **Tech:** Next.js 15, TypeScript, Sanity CMS, Supabase, bKash PGW, Telegram Bot API
+- **Features:** Messenger conversion system, 5 payment methods, real-time alerts, 200+ active students
 
-> Some projects are private due to client and business constraints.
+🔹 **[Amyra – Power Tools E-Commerce](https://amyra.com.bd)**  
+Complete e-commerce platform with CMS-driven product management.
+- **Tech:** Next.js 15, TypeScript, Sanity CMS, Tailwind CSS
+- **Features:** Dynamic catalog, cart system, multiple payment options, WhatsApp integration
 
 ---
 
@@ -95,7 +108,7 @@ Frontend-focused e-commerce application built with **Next.js, TypeScript, Tailwi
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -107,4 +120,4 @@ Frontend-focused e-commerce application built with **Next.js, TypeScript, Tailwi
 
 ---
 
-> “Good frontend code is invisible — users only feel the experience.”
+> "Building platforms that generate revenue, not just code."
